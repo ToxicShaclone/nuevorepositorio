@@ -278,9 +278,17 @@
   text-decoration: none;
 }
 
-.img-carrusel{
-  width: auto;
+.logoBot{
   height: 500px;
+  width: 100%;
+  max-width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-bottom: solid 3px black;
+}
+.logoBot img{
+  height: 500px;
+  width: 100%;
 }
 
 footer{
